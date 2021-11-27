@@ -1,4 +1,4 @@
-.backdrop {
+/* .backdrop {
   position: fixed;
   top: 0;
   left: 0;
@@ -28,9 +28,9 @@
     0px 2px 1px rgba(0, 0, 0, 0.2);
 
   background-color: var(--primary-white-color);
-}
+} */
 
-.modal__btn {
+/* .modal__btn {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -46,18 +46,18 @@
   background: transparent;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-}
+} */
 
-.modal__btn:hover {
+/* .modal__btn:hover {
    fill: #2196f3;
    border: 1px solid #2196f3;
   
   transition-property: border fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1)
-}
+} */
 
-.form__title {
+/* .form__title {
   margin-bottom: 12px;
   font-weight: bold;
   font-size: 20px;
@@ -66,8 +66,8 @@
   letter-spacing: 0.03em;
 
   color: #212121;
-}
-.form__label {
+} */
+/* .form__label {
   position: relative;
   margin-bottom: 10px;
   display: block;
@@ -75,11 +75,11 @@
   line-height: 14px;
   letter-spacing: 0.01em;
   color: #757575;
-}
-.form__label--mb20 {
+} */
+/* .form__label--mb20 {
   margin-bottom: 20px;
-}
-.form__input {
+} */
+/* .form__input {
   width: 100%;
   padding-top: 12px;
   padding-bottom: 12px;
@@ -89,27 +89,27 @@
 
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
-}
-.form__input:hover,
+} */
+/* .form__input:hover,
 .form__input:focus,
 .form__input:focus-visible {
   border-color: #2196f3;
-}
-.form__input:focus-visible {
+} */
+/* .form__input:focus-visible {
   outline: 1px solid #2196f3;
-}
-.form__input:hover + .form__icon,
+} */
+/* .form__input:hover + .form__icon,
 .form__input:focus + .form__icon {
   fill: #2196f3;
-}
-.form__icon {
+} */
+/* .form__icon {
   position: absolute;
   top: 50%;
   left: 12px;
 
   fill: #212121;
-}
-.form__message {
+} */
+/* .form__message {
   width: 100%;
   padding: 12px 16px;
   margin-top: 4px;
@@ -122,34 +122,34 @@
   border-radius: 4px;
 
   resize: none;
-}
-.form__message:placeholder {
+} */
+/* .form__message:placeholder {
   color: rgba(117, 117, 117, 0.5);
-}
+} */
 
-.form__message:hover,
+/* .form__message:hover,
 .form__message:focus {
   border-color: #2196f3;
-}
+} */
 
-.form__message:focus-visible {
+/* .form__message:focus-visible {
   outline: 1px solid #2196f3;
-}
+} */
 
-.agreement {
+/* .agreement {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 30px;
-}
+} */
 
-.agreement__icon {
+/* .agreement__icon {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} */
 
-.checkbox__input {
+/* .checkbox__input {
   margin-right: 7px;
   display: flex;
   align-items: center;
@@ -158,9 +158,9 @@
 
   transition: background-color 250ms cubic-bezier(0.075, 0.82, 0.165, 1),
     border-color 250ms cubic-bezier(0.075, 0.82, 0.165, 1);
-}
+} */
 
-.form__label-icon {
+/* .form__label-icon {
   margin-right: 9px;
   border: 2px solid #212121;
   width: 16px;
@@ -169,15 +169,15 @@
 
   display: flex;
   justify-content: center;
-}
+} */
 
-.checkbox:checked + .checkbox__input > .form__label-icon {
+/* .checkbox:checked + .checkbox__input > .form__label-icon {
   background-color: #2196f3;
   border: transparent;
-}
+} */
 
 
-.form__btn {
+/* .form__btn {
   display: block;
   margin: 0 auto;
   padding: 10px 55px;
@@ -192,13 +192,13 @@
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
-}
+} */
 
-.form__btn:hover {
+/* .form__btn:hover {
   background-color: #188ce8;
-}
+} */
 
-.agreement__link {
+/* .agreement__link {
   text-decoration: underline;
   color: #2196f3;
-}
+} */
