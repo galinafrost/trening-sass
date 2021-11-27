@@ -1,1 +1,1 @@
-# trening-sass
+# goit-markup-hw-03
