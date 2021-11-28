@@ -1,8 +1,10 @@
 .client {
     padding-top: 94px;
+    padding-bottom: 94px;
 
     &__title {
         margin-bottom: 50px;
+        padding-top: 0;
       }
 
     &__list {
